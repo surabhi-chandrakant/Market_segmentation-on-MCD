@@ -1,5 +1,5 @@
 # Market_segmentation-on-MCD
-# Market Segmentation - Group Task & McDonald's Case Study - Individual Task
+# Market Segmentation -  McDonald's Case Study - 
 
 ## Project Overview
 This repository contains the work done on **Market Segmentation** and the **replication of McDonald's Case Study** in Python. The tasks are divided into two main parts:
